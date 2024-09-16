@@ -1,0 +1,7 @@
+
+	"checkCode 1.A ",
+	"true",			
+	//WRITE YOUR TESTS BELOW IN THE SAME FORMAT (USE COPY-AND-PASTE)
+	"checkCode 999.M0rning Hi ",
+	"false",				
+	//DO NOT CHANGE ANYTHING BELOW THIS LINE		
