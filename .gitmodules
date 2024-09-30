@@ -1,3 +1,7 @@
 [submodule "akhilvanka-worksheet-J0"]
 	path = akhilvanka-worksheet-J0
-	url = https://github.com/akhilvanka/akhilvanka-worksheet-J0
+  url = https://github.com/akhilvanka/akhilvanka-worksheet-J0
+
+[submodule "akhilvanka-lab1"]
+  path = akhilvanka-lab1
+  url = https://github.com/akhilvanka/akhilvanka-lab1
